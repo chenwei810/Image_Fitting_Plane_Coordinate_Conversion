@@ -1,0 +1,4 @@
+Blue: RMSE = 49.24
+NIR: RMSE = 54.76
+Red: RMSE = 62.97
+RedEdge: RMSE = 36.11
